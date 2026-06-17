@@ -47,6 +47,8 @@ High-level summary view for business decision-making.
 |------|-------------|
 | `Pharmacy_Dashboards(6).pbix` | Power BI file containing all 6 dashboard pages |
 | `Dash_Images/` | Preview images of each dashboard page (pdf_dash_1.png – pdf_dash_6.png) |
+| `6 Dashboards.rar` | Screen recording demo of the dashboards, showcasing interactive KPI indicators |
+| `Pharmacy_Data.rar` | Source data and stored procedures used to build the data model |
 
 ---
 *Part of the ITI Data Analytics Graduation Project*
